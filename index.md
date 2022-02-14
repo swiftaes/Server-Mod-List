@@ -14,6 +14,6 @@ Robeloto_CustomZombies - https://7daystodiemods.com/custom-zombies-mod-by-robelo
 Tactical Weapons - https://7daystodiemods.com/tactical-weapons/<br>
 Valmars Expanded Traps - https://7daystodiemods.com/expanded-traps/<br>
 Claymore 30k Stack Sizes - https://www.mediafire.com/file/rmrayykjt5i2ytz/Claymore_30K_Stack_Sizes.zip/file<br>
-Old Farming for A20 - https://www.nexusmods.com/7daystodie/mods/1751
-More Containers - https://7daystodiemods.com/more-containers/
+Old Farming for A20 - https://www.nexusmods.com/7daystodie/mods/1751<br>
+More Containers - https://7daystodiemods.com/more-containers/<br>
 Better Power Tools - https://7daystodiemods.com/better-power-tools/
