@@ -2,8 +2,8 @@
 
 The list will be updated when new mods are added.
 
-Bdugs Vehicles - https://www.nexusmods.com/7daystodie/mods/342?tab=files <br><br>
-Electricity Overhail-0.9.0 - https://7daystodiemods.com/electricity-overhaul-mod/<br><br>
+Bdugs Vehicles - https://www.nexusmods.com/7daystodie/mods/342?tab=files <br>
+Electricity Overhail-0.9.0 - https://7daystodiemods.com/electricity-overhaul-mod/<br>
 ElectricityWindPower - https://7daystodiemods.com/electricity-wind-power/<br>
 GophersFoods - https://7daystodiemods.com/gophers-foods/<br>
 H7SB Backpacks - https://7daystodiemods.com/h7sb-backpacks/<br>
