@@ -13,5 +13,5 @@ MeanCloud_Cannabis - https://7daystodiemods.com/cannabis-mod/<br>
 Robeloto_CustomZombies - https://7daystodiemods.com/custom-zombies-mod-by-robeloto/<br>
 Tactical Weapons - https://7daystodiemods.com/tactical-weapons/<br>
 Valmars Expanded Traps - https://7daystodiemods.com/expanded-traps/<br>
-Claymore 30k Stack Sizes - https://www.mediafire.com/file/rmrayykjt5i2ytz/Claymore_30K_Stack_Sizes.zip/file
+Claymore 30k Stack Sizes - https://www.mediafire.com/file/rmrayykjt5i2ytz/Claymore_30K_Stack_Sizes.zip/file<br>
 Old Farming for A20 - https://www.nexusmods.com/7daystodie/mods/1751
