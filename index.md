@@ -18,5 +18,5 @@ Old Farming for A20 - https://www.nexusmods.com/7daystodie/mods/1751<br>
 More Containers - https://7daystodiemods.com/more-containers/<br>
 Better Power Tools - https://7daystodiemods.com/better-power-tools/<br>
 Oakraven Forest Collection - https://7daystodiemods.com/oakraven-forest-collection/<br>
-Regenerating Boulders - https://7daystodiemods.com/regenerating-boulders/ Copper & Zinc
+Regenerating Boulders Copper & Zinc - https://7daystodiemods.com/regenerating-boulders/<br>
 Fishing Mod - https://7daystodiemods.com/fishing-mod-by-meancloud/
