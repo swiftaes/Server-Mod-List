@@ -17,3 +17,4 @@ Claymore 30k Stack Sizes - https://www.mediafire.com/file/rmrayykjt5i2ytz/Claymo
 Old Farming for A20 - https://www.nexusmods.com/7daystodie/mods/1751<br>
 More Containers - https://7daystodiemods.com/more-containers/<br>
 Better Power Tools - https://7daystodiemods.com/better-power-tools/
+Oakraven Forest Collection - https://7daystodiemods.com/oakraven-forest-collection/
