@@ -8,23 +8,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Bdugs Vehicles - https://www.nexusmods.com/7daystodie/mods/342?tab=files
+Electricity Overhail-0.9.0 - https://7daystodiemods.com/electricity-overhaul-mod/
+ElectricityWindPower - https://7daystodiemods.com/electricity-wind-power/
+GophersFoods - https://7daystodiemods.com/gophers-foods/
+H7SB Backpacks - https://7daystodiemods.com/h7sb-backpacks/
+Improved Hordes - https://7daystodiemods.com/improved-hordes/
+Quality of Life - https://7daystodiemods.com/quality-of-life/
+MeanCloud_Cannabis - https://7daystodiemods.com/cannabis-mod/
+Robeloto_CustomZombies - https://7daystodiemods.com/custom-zombies-mod-by-robeloto/
+Tactical Weapons - https://7daystodiemods.com/tactical-weapons/
+Valmars Expanded Traps - https://7daystodiemods.com/expanded-traps/
+Claymore 30k Stack Sizes - https://www.mediafire.com/file/rmrayykjt5i2ytz/Claymore_30K_Stack_Sizes.zip/file
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
