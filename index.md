@@ -19,4 +19,5 @@ More Containers - https://7daystodiemods.com/more-containers/<br>
 Better Power Tools - https://7daystodiemods.com/better-power-tools/<br>
 Oakraven Forest Collection - https://7daystodiemods.com/oakraven-forest-collection/<br>
 Regenerating Boulders Copper & Zinc - https://7daystodiemods.com/regenerating-boulders/<br>
-Fishing Mod - https://7daystodiemods.com/fishing-mod-by-meancloud/
+Fishing Mod - https://7daystodiemods.com/fishing-mod-by-meancloud//<br>
+Mining Mod - https://7daystodiemods.com/mining-mod-with-copper-zinc-and-excavators//<br>
