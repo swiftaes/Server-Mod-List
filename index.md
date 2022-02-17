@@ -21,4 +21,8 @@ Oakraven Forest Collection - https://7daystodiemods.com/oakraven-forest-collecti
 Regenerating Boulders Copper & Zinc - https://7daystodiemods.com/regenerating-boulders/<br>
 Fishing Mod - https://7daystodiemods.com/fishing-mod-by-meancloud//<br>
 Mining Mod - https://7daystodiemods.com/mining-mod-with-copper-zinc-and-excavators//<br>
-Auto Shotgun and Pipe Shotgun Mod - https://drive.google.com/file/d/1vn3DEka2AlqZgqiSTmDzy-p1yw_tecY1/view?usp=sharing
+Auto Shotgun and Pipe Shotgun Mod - https://drive.google.com/file/d/1vn3DEka2AlqZgqiSTmDzy-p1yw_tecY1/view?usp=sharing<br>
+Bigger Chicken and Bunnies - https://7daystodiemods.com/bigger-chicken-and-bunny/<br>
+Better Spears - https://7daystodiemods.com/better-spears/<br>
+More Perks - https://7daystodiemods.com/more-perks/<br>
+Add Vitamin - https://7daystodiemods.com/add-vitamin/<br>
