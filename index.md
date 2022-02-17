@@ -21,3 +21,4 @@ Oakraven Forest Collection - https://7daystodiemods.com/oakraven-forest-collecti
 Regenerating Boulders Copper & Zinc - https://7daystodiemods.com/regenerating-boulders/<br>
 Fishing Mod - https://7daystodiemods.com/fishing-mod-by-meancloud//<br>
 Mining Mod - https://7daystodiemods.com/mining-mod-with-copper-zinc-and-excavators//<br>
+Auto Shotgun and Pipe Shotgun Mod - https://drive.google.com/file/d/1vn3DEka2AlqZgqiSTmDzy-p1yw_tecY1/view?usp=sharing
