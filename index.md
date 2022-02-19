@@ -27,4 +27,4 @@ Better Spears - https://7daystodiemods.com/better-spears/<br>
 More Perks - https://7daystodiemods.com/more-perks/<br>
 Add Vitamin - https://7daystodiemods.com/add-vitamin/<br>
 HP Bars - https://7daystodiemods.com/hp-bars/<br>
-More Loot Bags - https://www.nexusmods.com/7daystodie/mods/168
+More Loot Bags - https://drive.google.com/file/d/1D52xrgQvlJYOZc9_WaDdzdOekaapbsxr/view?usp=sharing
