@@ -26,3 +26,4 @@ Bigger Chicken and Bunnies - https://7daystodiemods.com/bigger-chicken-and-bunny
 Better Spears - https://7daystodiemods.com/better-spears/<br>
 More Perks - https://7daystodiemods.com/more-perks/<br>
 Add Vitamin - https://7daystodiemods.com/add-vitamin/<br>
+HP Bars - https://7daystodiemods.com/hp-bars/
