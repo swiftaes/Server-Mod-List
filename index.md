@@ -30,3 +30,5 @@ HP Bars - https://7daystodiemods.com/hp-bars/<br>
 More Loot Bags - https://drive.google.com/file/d/1D52xrgQvlJYOZc9_WaDdzdOekaapbsxr/view?usp=sharing<br>
 Light Mod - https://7daystodiemods.com/burning-shafts-on-auger-and-chainsaw/<br>
 Recurve Bow - https://7daystodiemods.com/recurve-bow/<br>
+Add Acid - https://7daystodiemods.com/add-acid/<br>
+Animal Snares - https://7daystodiemods.com/animal-snares/<br>
